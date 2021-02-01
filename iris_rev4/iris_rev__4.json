@@ -17,7 +17,7 @@
     "== ",
     "!= ",
     ":= ",
-    "if err != nil {KC_LSFT,KC_LBRC}"
+    "if err != nil {KC_LSFT,KC_LBRC}\n"
   ],
   "layers": [
     [
